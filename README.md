@@ -18,3 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadmangaming&show_icons=true&locale=en" alt="sadmangaming" /></p>
 
+### My Latest YouTube Vedios :
+[Discord.Js Gamer-Bot](https://youtu.be/rFTr_dSGARs)
+
