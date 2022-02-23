@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently making **Discord Bots**
 
-- 🌱 I’m currently learning **QBasic/PHP/JavaScript/CSS/HTML/C++/C/C#**
+- 🌱 I’m currently learning **JavaScript**
 
 - ⚡ Fun fact **I'm a pro Gamer or Coder 😎**
 
-- 🌱 Currently learned **JavaScript, QBasic, JavaScript, HTML**
+- 🌱 Currently learned **JavaScript, QBasic**
 
 
 <h3 align="left">Languages and Tools:</h3>
