@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm a pro Gamer or Coder 😎**
 
-- 🌱 Currently learned **JavaScript, QBasic**
+- 🌱 Currently learned **JavaScript, QBasic, TypeScript**
 
 
 <h3 align="left">Languages and Tools:</h3>
