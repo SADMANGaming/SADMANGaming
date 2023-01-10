@@ -20,9 +20,4 @@
 
 <h3 align="left">Tooks:</h3>
 <p align="left">  <a href="https://www.replit.com" target="_blank"> <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit"/> </a>  <a href="https://www.glitch.com" target="_blank"> <img src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white" alt="glitch"/> </a>  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
-  
-  ![My Discord](https://discord-readme-badge.vercel.app/api?id=𝓢𝓐𝓓𝓜𝓐𝓝#3807)
-  
-
-  
  
